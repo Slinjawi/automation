@@ -1,3 +1,3 @@
 # automation
 projects for automated/convenience functions
-I use mostly naas website and it's modules for the automation
+I use mostly naas website and its modules for the automation
